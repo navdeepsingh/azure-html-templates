@@ -6,3 +6,5 @@ function backAway(){
         history.back();
     }
 }
+
+backAway();
